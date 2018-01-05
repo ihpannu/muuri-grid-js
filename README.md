@@ -11,4 +11,4 @@ Check out [demo](https://iharmanpannu.github.io/muuri-grid-js/) to see it in act
 images to make it look interesting.
 <br>
 <br>
-![gif](https://media.giphy.com/media/l0HU5tXoTzKBCbKEM/giphy.
+![gif](https://media.giphy.com/media/l0HU5tXoTzKBCbKEM/giphy.gif)
